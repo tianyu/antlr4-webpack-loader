@@ -1,6 +1,6 @@
 {
   "name": "antlr4-webpack-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Loads a ANTLR4 grammar file and compiles it to JavaScript.",
   "main": "index.js",
   "scripts": {
