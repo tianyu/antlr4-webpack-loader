@@ -1,0 +1,35 @@
+{
+  "name": "antlr4-webpack-loader",
+  "version": "0.1.0",
+  "description": "Loads a ANTLR4 grammar file and compiles it to JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tianyu/antlr4-webpack-loader.git"
+  },
+  "keywords": [
+    "antlr4",
+    "antlr",
+    "webpack",
+    "loader",
+    "lexer",
+    "parser",
+    "grammar"
+  ],
+  "author": "Tianyu Zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianyu/antlr4-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/tianyu/antlr4-webpack-loader#readme",
+  "peerDependencies": {
+    "antlr4": "^4.7.0"
+  },
+  "dependencies": {
+    "tmp": "^0.0.30",
+    "webpack": "^2.2.0"
+  }
+}
